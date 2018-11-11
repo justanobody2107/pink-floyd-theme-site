@@ -24,12 +24,12 @@ a img{
 }
 
 ::-moz-selection {
-  background-color: #1e2330;
+  background-color: #aaaaaa;
   color: #fff;
 }
 
 ::selection {
-  background-color: #1e2330;
+  background-color: #aaaaaa;
   color: #fff;
 }
 
@@ -128,7 +128,7 @@ a img{
   }
 
     .navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #1e2330;
+      border-bottom: 4px solid #aaaaaa;
     }
 
   .search-box {
@@ -162,12 +162,12 @@ a img{
   }
 
   .drawer span.mdl-navigation__link.mdl-navigation__link {
-    color: #1e2330;
+    color: #aaaaaa;
   }
 
   .drawer .mdl-layout-title {
     position: relative;
-    background: #1e2330;
+    background: #aaaaaa;
     height: 160px;
   }
 
@@ -180,7 +180,7 @@ a img{
   position: relative;
   height: auto;
   width: auto;
-  background-color: #1e2330;
+  background-color: #aaaaaa;
   background-size: cover;
   padding-top:15px;
   padding-bottom:65px
