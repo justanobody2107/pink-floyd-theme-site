@@ -24,12 +24,12 @@ a img{
 }
 
 ::-moz-selection {
-  background-color: #aaaaaa;
+  background-color: #0077ff;
   color: #fff;
 }
 
 ::selection {
-  background-color: #aaaaaa;
+  background-color: #0077ff;
   color: #fff;
 }
 
@@ -88,7 +88,7 @@ a img{
   }
 
   .header .mdl-navigation__link {
-    color: #757575;
+    color: #000000;
     font-weight: 700;
     font-size: 14px;
   }
@@ -162,7 +162,7 @@ a img{
   }
 
   .drawer span.mdl-navigation__link.mdl-navigation__link {
-    color: #aaaaaa;
+    color: #000000;
   }
 
   .drawer .mdl-layout-title {
