@@ -128,7 +128,7 @@ a img{
   }
 
     .navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #aaaaaa;
+      border-bottom: 4px solid #000000;
     }
 
   .search-box {
@@ -167,7 +167,7 @@ a img{
 
   .drawer .mdl-layout-title {
     position: relative;
-    background: #aaaaaa;
+    background: #0077ff;
     height: 160px;
   }
 
@@ -180,7 +180,7 @@ a img{
   position: relative;
   height: auto;
   width: auto;
-  background-color: #aaaaaa;
+  background-color: #0077ff;
   background-size: cover;
   padding-top:15px;
   padding-bottom:65px
